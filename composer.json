@@ -5,7 +5,7 @@
     "type": "library",
     "keywords": ["brownie", "bpm", "bpm-online", "bpmonline", "terrasoft"],
     "homepage": "https://github.com/prnewsteam/bpm-online",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "authors": [
         {
             "name": "brownie",
@@ -16,7 +16,7 @@
         "php": ">=7.0",
         "ext-curl": "*",
         "ext-json": "*",
-        "prnewsteam/bpm-http-client": "0.0.7",
+        "prnewsteam/bpm-http-client": "0.0.8",
         "ossbrownie/util": "0.0.5"
     },
     "require-dev": {
