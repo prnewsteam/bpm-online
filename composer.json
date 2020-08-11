@@ -1,10 +1,10 @@
 {
-    "name": "ossbrownie/bpm-online",
+    "name": "prnewsteam/bpm-online",
     "description": "API access to a single marketing management platform 'CRM-system bpm’online'",
     "license": "MIT",
     "type": "library",
     "keywords": ["brownie", "bpm", "bpm-online", "bpmonline", "terrasoft"],
-    "homepage": "https://github.com/ossbrownie/bpm-online",
+    "homepage": "https://github.com/prnewsteam/bpm-online",
     "version": "0.0.8",
     "authors": [
         {
@@ -16,7 +16,7 @@
         "php": ">=7.0",
         "ext-curl": "*",
         "ext-json": "*",
-        "ossbrownie/http-client": "0.0.7",
+        "prnewsteam/bpm-http-client": "0.0.7",
         "ossbrownie/util": "0.0.5"
     },
     "require-dev": {
